@@ -1,4 +1,4 @@
-def()
+def call()
 {
     sh 'mvn test'
 }
